@@ -1,0 +1,157 @@
+{
+    "file": {
+        "0": {}
+    },
+    "ArrayField": [
+        {
+            "bounding": {
+                "id": "cmOsXkYhO",
+                "x": 1042,
+                "y": 1456,
+                "height": 295,
+                "width": 1533
+            },
+            "inputType": "Text",
+            "fieldName": "date",
+            "required": true,
+            "details": {
+                "textFieldType": "Date",
+                "details": {
+                    "timeType": "date",
+                    "format": "DD/MM/YYYY"
+                }
+            }
+        },
+        {
+            "bounding": {
+                "id": "0JOsW4vdY",
+                "x": 1042,
+                "y": 1656,
+                "height": 720,
+                "width": 2245
+            },
+            "inputType": "Text",
+            "fieldName": "address",
+            "required": true,
+            "details": {
+                "textFieldType": "Textarea"
+            }
+        },
+        {
+            "bounding": {
+                "id": "4lac3qF8f",
+                "x": 1042,
+                "y": 2594,
+                "height": 247,
+                "width": 2600
+            },
+            "inputType": "Select",
+            "fieldName": "Attn",
+            "required": true,
+            "showAttribute": true,
+            "bold": true,
+            "underline": true,
+            "details": {
+                "selections": [
+                    "Mr. Peter Poon Yin Sang (CRE)"
+                ]
+            }
+        },
+        {
+            "bounding": {
+                "id": "t3c9v8_H0",
+                "x": 4768,
+                "y": 2179,
+                "height": 507,
+                "width": 1106
+            },
+            "inputType": "Select",
+            "fieldName": "method",
+            "required": true,
+            "bold": true,
+            "details": {
+                "selections": [
+                    "By Hand"
+                ]
+            }
+        },
+        {
+            "bounding": {
+                "id": "nRQsZFn6S",
+                "x": 1042,
+                "y": 2939,
+                "height": 2085,
+                "width": 4775
+            },
+            "inputType": "Text",
+            "fieldName": "Contents",
+            "required": true,
+            "details": {
+                "textFieldType": "Textarea"
+            }
+        },
+        {
+            "bounding": {
+                "id": "D0wT0d-Z-",
+                "x": 1042,
+                "y": 5152,
+                "height": 471,
+                "width": 2161
+            },
+            "inputType": "Closing",
+            "fieldName": ""
+        },
+        {
+            "bounding": {
+                "id": "KKkBh1fEH",
+                "x": 1042,
+                "y": 5758,
+                "height": 677,
+                "width": 2371
+            },
+            "inputType": "Text",
+            "fieldName": "site_agent",
+            "required": true,
+            "details": {
+                "textFieldType": "Textarea"
+            }
+        },
+        {
+            "bounding": {
+                "id": "EGF1p5SHn",
+                "x": 1050,
+                "y": 6584,
+                "height": 404,
+                "width": 888
+            },
+            "inputType": "Select",
+            "fieldName": "Encl.",
+            "required": true,
+            "showAttribute": true,
+            "details": {
+                "selections": [
+                    "AY",
+                    "StL",
+                    "YC"
+                ],
+                "multipleSelect": true
+            }
+        },
+        {
+            "bounding": {
+                "id": "wOSiH3NVn",
+                "x": 1042,
+                "y": 7080,
+                "height": 485,
+                "width": 4834
+            },
+            "inputType": "Text",
+            "fieldName": "cc",
+            "required": true,
+            "showAttribute": true,
+            "details": {
+                "textFieldType": "Textarea"
+            }
+        }
+    ]
+}

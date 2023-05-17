@@ -1,0 +1,59 @@
+{
+    "file": "blob:http://localhost:3001/cf8122ce-8d95-4823-a337-f962b5c31938",
+    "ArrayField": [
+        {
+            "bounding": {
+                "id": "cmOsXkYhO",
+                "x": 1042,
+                "y": 1456,
+                "height": 295,
+                "width": 1533
+            },
+            "inputType": "Text",
+            "fieldName": "date",
+            "required": true,
+            "details": {
+                "textFieldType": "Date",
+                "details": {
+                    "timeType": "time",
+                    "format": "hh:mm:ss A",
+                    "default": true
+                }
+            }
+        },
+        {
+            "bounding": {
+                "id": "GWF-TEnQA",
+                "x": 3141,
+                "y": 5960,
+                "height": 1127,
+                "width": 2254
+            },
+            "inputType": "Select",
+            "fieldName": "a",
+            "details": {
+                "selections": [
+                    "d",
+                    "f"
+                ],
+                "details": {
+                    "default": "d"
+                }
+            }
+        },
+        {
+            "bounding": {
+                "id": "88wguDBd_",
+                "x": 2564,
+                "y": 3851,
+                "height": 1035,
+                "width": 1462
+            },
+            "inputType": "Text",
+            "fieldName": "c",
+            "details": {
+                "textFieldType": "e-mail"
+            }
+        }
+    ]
+}

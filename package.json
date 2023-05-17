@@ -1,0 +1,66 @@
+{
+  "name": "recipe-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.4",
+    "@hookform/resolvers": "^2.9.10",
+    "@mantine/core": "^5.7.2",
+    "@mantine/dates": "^5.7.2",
+    "@mantine/hooks": "^5.7.2",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/lab": "^5.0.0-alpha.69",
+    "@mui/material": "^5.10.9",
+    "@mui/styled-engine-sc": "^5.10.6",
+    "@mui/styles": "^5.4.2",
+    "@mui/x-date-pickers": "^5.0.7",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@tinymce/tinymce-react": "^4.2.0",
+    "clsx": "^1.2.1",
+    "dayjs": "^1.11.6",
+    "html2canvas": "^1.4.1",
+    "iojson": "^1.0.4",
+    "jspdf": "^2.5.1",
+    "moment": "^2.29.4",
+    "pdfjs-dist": "^3.0.279",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.37.0",
+    "react-image-crop": "^10.0.8",
+    "react-multi-crops": "0.0.10",
+    "react-router-dom": "^6.4.3",
+    "react-scripts": "5.0.1",
+    "react-simple-timefield": "^3.2.5",
+    "styled-components": "^5.3.6",
+    "tinymce": "^6.2.0",
+    "web-vitals": "^2.1.4",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
